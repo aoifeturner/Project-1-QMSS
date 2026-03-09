@@ -1,7 +1,6 @@
-# World Happiness Classification Competition
+# World Happiness Classification Competition 
 
 QMSS GR5074 project: classify countries into happiness categories using the World Happiness Report 2023 and socioeconomic data.
-This README was created with ChatGPT assistance.
 
 ## What’s in this repo
 
